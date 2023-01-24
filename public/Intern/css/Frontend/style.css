@@ -1,0 +1,99 @@
+/* Nav */
+/* .navbar{
+	background-color: #124a68;
+}
+
+.nav-item{
+	color: white;
+} */
+/* nav end */
+
+
+.img_div{
+  position: relative;
+}
+
+
+.right{
+  position: absolute;
+  /* top: 170px;
+  left: 50px; */
+
+  top: 20%;
+  left: 10%;
+}
+
+
+
+/* text color */
+.txt_color{
+	color: #2f378c;
+}
+/* Nav */
+.container{
+	max-width: 80%;
+}
+
+.container .nav .nav-item-logo{
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.nav-item{
+	margin-right: 10px;
+}
+
+
+/* nav end */
+
+/* featured */
+
+.feature_border{
+	border: .3px solid #aaaaaa;
+}
+/* featured end */
+
+/* btn */
+
+.btn_style{
+	height: 30px;
+	width: 100px;
+	font-size: 15px;
+}
+/* Footer */
+.textbox{
+		max-width: 80%;
+		border-radius: 20px;
+}
+
+#contact{
+	background-color: #124a68;
+	margin-top: 100px;
+}
+
+/* footer end */
+
+/* applist */
+.applist_header{
+	background-color: #124a68;
+	color: white;
+}
+
+.postform{
+	text-align: justify-content-center;
+}
+
+
+
+.field_card{
+	height: 200px;
+}
+
+
+.cpystu:hover{
+	opacity: 0.7;
+}
+
+.view_all:hover{
+	opacity: 0.7;
+}
